@@ -20,16 +20,6 @@ display: flex;
   gap: 1rem;
   justify-content: center;
 }
-/* .btn{
-    height: 200px;
-    width: 200px;
-    border: 10px solid black;
-    border-radius: 20%;
-    margin: 1rem;
-    transition: background-color 0.2s;
-}
- */
-
 
 .btn {
   height: 150px;
@@ -71,7 +61,4 @@ display: flex;
 
 .flash{
     background-color: white;
-}
-.userflash{
-    background-color: aqua;
 }

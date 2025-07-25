@@ -88,11 +88,6 @@ else{
 }
 }
 
-
-
-
-
-
 function btnPress(){
     // console.log(this);
     let btn = this;
@@ -114,7 +109,7 @@ for(btn of allBtns){
 function reset(){
     started = false;
     gameSeq = [];
-userSeq =[];
-level =0;
+    userSeq =[];
+    level =0;
 
 }
