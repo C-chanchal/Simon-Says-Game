@@ -24,7 +24,7 @@ A simple and fun memory game built using HTML, CSS, JavaScript, and Bootstrap.
 ![screenshot](screenshot.png)
 
 ## 🔗 Live Demo
-[Play Now (GitHub Pages)](https://your-username.github.io/simon-says-game/)
+[Play Now (GitHub Pages)](https://github.com/C-chanchal/Simon-Says-Game)
 
 ## 📄 License
 This project is licensed under the MIT License.
