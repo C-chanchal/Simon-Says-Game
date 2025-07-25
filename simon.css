@@ -1,0 +1,77 @@
+body{
+    text-align: center;
+     font-family: Arial, sans-serif;
+  background-color: white;
+}
+
+h1 {
+  font-size: 3rem;
+  margin-top: 1rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+  margin-bottom: 2rem;
+}
+.btn-conatiner{
+display: flex;
+ flex-direction: row; /* To stack lines vertically */
+  align-items: center;
+  gap: 1rem;
+  justify-content: center;
+}
+/* .btn{
+    height: 200px;
+    width: 200px;
+    border: 10px solid black;
+    border-radius: 20%;
+    margin: 1rem;
+    transition: background-color 0.2s;
+}
+ */
+
+
+.btn {
+  height: 150px;
+  width: 150px;
+  border: 5px solid #000;
+  border-radius: 20%;
+  font-size: 1.5rem;
+  color: white;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.btn:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 15px rgba(0,0,0,0.3);
+  background-color: antiquewhite;
+}
+
+
+
+
+
+.red{
+    background-color: palevioletred;
+}
+.yellow{
+    background-color: yellow;
+}
+.green{
+    background-color: green;
+}
+.blue{
+    background-color: blue;
+}
+
+.flash{
+    background-color: white;
+}
+.userflash{
+    background-color: aqua;
+}
